@@ -53,6 +53,17 @@ A bit of Math
 ![A bit of Math](https://user-images.githubusercontent.com/108143680/223741526-d2dddae8-b323-48e8-bb1a-5b96448730f9.PNG)
 
 # Day-11
+How many seconds in year?.
+
+# Day-12
+Find the Errors and start Debugging!
+
+![Fix my code](https://user-images.githubusercontent.com/108143680/223764122-a4dd54ad-e476-4c2c-9c87-320b64e182f4.PNG)
+
+# Day-13
+What grade did I get?
+
+# Day-14
 
 
 
