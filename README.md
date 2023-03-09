@@ -64,6 +64,33 @@ Find the Errors and start Debugging!
 What grade did I get?
 
 # Day-14
+Rock, Paper and Scissors.
+
+![image](https://user-images.githubusercontent.com/108143680/224039670-85bdc893-ebd5-46f7-9924-ed486227ae2a.png)
+
+# Day-15   and   Day-16    and   Day-17
+Loops!
+while loop  and  while True-(break) , while True-(continue)
+
+# Day-18
+Guess the Number!🤔 Guessing Game.
+
+![Guessing](https://user-images.githubusercontent.com/108143680/224050414-c759a6b7-c3fe-454b-888f-b8b0bd8bbcfc.PNG)
+
+# Day-19     and     Day-20
+Let's Be a Bit Lazy! 
+   For Loops!    and    Range
+Loops!
+
+![forloops](https://user-images.githubusercontent.com/108143680/224052564-eaabe00b-896c-4eda-9268-77828982b488.PNG)
+
+range
+
+![Range](https://user-images.githubusercontent.com/108143680/224054654-db068358-0636-4813-9b17-cafee2d0ab0c.PNG)
+
+# Day-21
+
+
 
 
 
