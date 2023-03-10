@@ -89,6 +89,18 @@ range
 ![Range](https://user-images.githubusercontent.com/108143680/224054654-db068358-0636-4813-9b17-cafee2d0ab0c.PNG)
 
 # Day-21
+Math Facts Game!
+
+# Day-22
+Libraries | 
+Use other people's code to make your life easier.
+
+![Libraries](https://user-images.githubusercontent.com/108143680/224332771-0151d687-e5b0-42ce-aa65-71910fc953f8.PNG)
+
+# Day-23
+
+
+
 
 
 
