@@ -97,7 +97,14 @@ Use other people's code to make your life easier.
 
 ![Libraries](https://user-images.githubusercontent.com/108143680/224332771-0151d687-e5b0-42ce-aa65-71910fc953f8.PNG)
 
-# Day-23
+# Day-23   and    Day-24
+Subroutines  and Subroutines Parameters.
+
+# Day-25
+
+
+
+
 
 
 
