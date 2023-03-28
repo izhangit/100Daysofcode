@@ -25,35 +25,56 @@ Concatenation.
 # Day-4
 'Print' in Color.
 
+ Write your adventure story and make your project POP with some color!.
+
 ![printing in color](https://user-images.githubusercontent.com/108143680/223738155-f677c8b2-c4da-4f02-a6e9-87308a03c748.PNG)
 
 # Day-5
 If Statement + Else: 
 
+Generate actual Q&As with 'if' statements. Create a "Who am I?" game with your favorite TV/movie characters.
+
+
 # Day-6
 Elif Statement
+
+Learn 'elif' statements. Create a Login System to keep passwords safe from hackers?!
+
 
 # Day-7
 Nesting 
 If Inside If
+
+Like nesting dolls,nest 'if' statements within 'if' statements.
+
 
 ![Nesting](https://user-images.githubusercontent.com/108143680/223739764-9b32d85e-570a-44ce-9e7d-cf7d49c3b331.PNG)
 
 # Day-8
 Affirmation Generator.
 
+Show the world some love with an affirmation generator. Send good vibes each day with a personalized message.
+
+
 # Day-9
 Casting.
+
+Teach the computer to recognize numbers (and do the math) with the 'magic' of 'int' and 'float'!
+
 
 ![Casting](https://user-images.githubusercontent.com/108143680/223741069-287a1b36-4153-4b4c-b3c9-503c0c5be192.PNG)
 
 # Day-10
 A bit of Math
 
+Code basic math principles (+,-,*,/), build your own tip calculator, and never calculate numbers again!
+
 ![A bit of Math](https://user-images.githubusercontent.com/108143680/223741526-d2dddae8-b323-48e8-bb1a-5b96448730f9.PNG)
 
 # Day-11
 How many seconds in year?.
+
+525,600 minutes. Now, use your newfound math skills to determine how many seconds are in a year!
 
 # Day-12
 Find the Errors and start Debugging!
@@ -63,17 +84,24 @@ Find the Errors and start Debugging!
 # Day-13
 What grade did I get?
 
+Whether you are a teacher or student, you can compute grades and generate your own gradebook with this project.
+
 # Day-14
-Rock, Paper and Scissors.
+Rock, Paper and Scissors!
 
 ![image](https://user-images.githubusercontent.com/108143680/224039670-85bdc893-ebd5-46f7-9924-ed486227ae2a.png)
 
-# Day-15   and   Day-16    and   Day-17
+# Day-15   Day-16    and   Day-17
 Loops!
 while loop  and  while True-(break) , while True-(continue)
 
+
+Make your games much more epic by adding a loop to repeat the game over and over...
+
 # Day-18
 Guess the Number!🤔 Guessing Game.
+
+'Guess the Number' game where the user has to read your mind and guess the number you are thinking...
 
 ![Guessing](https://user-images.githubusercontent.com/108143680/224050414-c759a6b7-c3fe-454b-888f-b8b0bd8bbcfc.PNG)
 
@@ -100,6 +128,8 @@ Use other people's code to make your life easier.
 # Day-23   and    Day-24
 Subroutines  and Subroutines Parameters.
 
+Write code in a way where you can use it, call it, or repeat it anywhere and at anytime with the power of Subroutines.
+
 # Day-25
 Return Command - random Pin Generate.
 
@@ -109,7 +139,7 @@ Return Command - random Pin Generate.
 Power of Libraries
 
 # Day-27
-
+Video Game Characters and create their health and strength stats through the power of return, libraries, and loops. Get them ready battle on Day 28!
 
 
 
